@@ -31,7 +31,7 @@ const projects: Projects = [
     title: "Codesplash",
     type: "Side project",
     description:
-      "A browser IDE for python. Each coding session spawns a new Docker instance where the user's code is transmitted to and evaluated with the help of websockets. I also coded a purely functional folder tree in React for this. I have taken it down from production due to lack of development.",
+      "A browser IDE for python. Each coding session spawns a new Docker instance where the user's code is transmitted to and evaluated with the help of websockets. I also coded a purely functional folder tree in React for this. I have sadly taken it down from production due to lack of development.",
   },
   {
     title: "Codespace",
